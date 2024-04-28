@@ -14,4 +14,3 @@ RUN mkdir /.cache
 RUN chmod 777 /.cache
 RUN mkdir .chroma
 RUN chmod 777 .chroma
-
