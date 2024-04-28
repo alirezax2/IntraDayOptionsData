@@ -1,0 +1,7 @@
+yfinance
+panel
+hvplot
+bokeh
+requests
+python-dotenv
+
